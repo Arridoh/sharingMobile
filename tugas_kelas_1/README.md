@@ -1,4 +1,4 @@
-# tugas_kelas_FLUTTER
+# TUGAS_KELAS_FLUTTER
 
 ## Identitas
 
